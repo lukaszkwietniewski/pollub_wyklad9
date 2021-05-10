@@ -8,5 +8,7 @@ Free | PRO | Enterprise
 2 GB of storage | 10 GB of storage | 15 GB of storage
 Email support | Priority email support | Phone and email support
 Help center access | Help center access | Help center access
+[Sign up for free](https://github.com/lukaszkwietniewski/pollub_wyklad9) | [Get started](https://github.com/lukaszkwietniewski/pollub_wyklad9) | [Contact us](https://github.com/lukaszkwietniewski/pollub_wyklad9)
 
 ---
+##### SuperFirma IT
