@@ -1,9 +1,9 @@
 # Pricing
 ### Quickly build an effective pricing table for your potential customers with this .md example. It's built with default Mastering Markdown components and utilities with little customization.
 
-Free | PRO | Enterprise
+SIMPLE | PRO | Enterprise
 ------------ | ------------- | -------------
-**0 $** /mo | **15$** /mo | **35$** /mo
+**5$** /mo | **15$** /mo | **35$** /mo
 10 users included | 20 users included | 30 users included
 2 GB of storage | 10 GB of storage | 15 GB of storage
 Email support | Priority email support | Phone and email support
